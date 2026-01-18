@@ -1,5 +1,5 @@
 
-# Google Apps Script Code (v24 - Fix No Increment)
+# Google Apps Script Code Sahabat Kasir
 
 Copy the code below into your Google Sheet Script Editor (**Extensions > Apps Script**).
 **Important:** You must deploy this as a Web App again after updating the code (Deploy > New Deployment).
